@@ -21,7 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-### websites of Studying every software developer should follow ###
+
+#### websites of Studying every software developer should follow ####
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
