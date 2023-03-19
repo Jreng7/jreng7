@@ -3,17 +3,12 @@
 <h2 align="left">Hello guys 👋</h2>
 <h4 align="left">'Im a Full Stack developer, super dedicated about programming, and currently studying more and more!</h4>
 
-- 🔭 I’m currently working on [Next.js](https://www.google.com.br/?pccc=1)
+🚀   I'm working as a Front End and Backend developer at Workwolf
+💜   Looking to collaborate on projects with React/Next/Node
+😊   I can help you with CSS, Styled Components, HTML, React, Next.js, Node.js, and React Native
+💻   My stack: ReactJS, React Native, Next.js, Node.js and Typescript
+💬   About me: I always loved technology and I'm a born gamer 😎🎮!
 
-- 🌱 I’m currently learning **Frameworks, and outhers**
-
-- 👯 I’m looking to collaborate on [project name1](https://www.google.com.br/?pccc=1)
-
-- 🤝 I’m looking for help with [project name2](https://www.google.com.br/?pccc=1)
-
-- 📫 How to reach me **jr.waydev@gmail.comI**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
