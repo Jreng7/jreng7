@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Josué Ribeiro</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h2 align="left">Josué Ribeiro</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jreng7&label=Profile%20views&color=0e75b6&style=flat" alt="jreng7" /> </p>
+<h3 align="left">Hello guys 👋</h3>
+<h4 align="left">'Im a Full Stack developer, super dedicated about programming, and currently studying more and more!</h4>
 
 - 🔭 I’m currently working on [Next.js](https://www.google.com.br/?pccc=1)
 
