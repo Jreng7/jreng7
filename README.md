@@ -1,6 +1,6 @@
-<h2 align="left">Josué Ribeiro</h2>
+<h1 align="left">Josué Ribeiro</h1>
 
-<h3 align="left">Hello guys 👋</h3>
+<h2 align="left">Hello guys 👋</h2>
 <h4 align="left">'Im a Full Stack developer, super dedicated about programming, and currently studying more and more!</h4>
 
 - 🔭 I’m currently working on [Next.js](https://www.google.com.br/?pccc=1)
