@@ -1,23 +1,44 @@
-<h1 align="left">Josué Ribeiro</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h2 align="left">Hello guys 👋</h2>
-<h4 align="left">'I'm a Full-stack developer, super dedicated about programming, and currently studying more and more!</h4>
+###
 
+<p align="left">My name is { Josué }, and I'm a  { Full Stack Developer } from Brazil.</p>
 
-🚀   I'm working as a Front End and Backend developer at Workwolf<br>
-💜   Looking to collaborate on projects with React/Next/Node<br>
-😊   I can help you with CSS, Styled Components, HTML, React, Next.js, Node.js, and React Native<br>
-💻   My stack: ReactJS, React Native, Next.js, Node.js and Typescript<br>
-💬   About me: I always loved technology and I'm a born gamer 😎🎮!<br>
+###
 
-[![blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](hyperlink)
-[![blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](hyperlink)
-[![blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](hyperlink)
-[![blog](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](hyperlink)
-[![blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](hyperlink)
-[![blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](hyperlink)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-<hr>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since: 2021 (because every developer starts somewhere!)<br>📚 Currently enhancing skills: in Java, Spring Boot, AWS, MongoDB, MySQL, Docker, and Kubernetes 🐳<br>💻 Goals: Master backend development and create scalable and efficient solutions, both locally and in the cloud, using cutting-edge technologies 🚀<br>💬 Fun fact: I'm constantly deepening my knowledge and learning more about the technologies I work with!</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
 
 <h3 align="left">📧 Get in touch with me</h3>
 
