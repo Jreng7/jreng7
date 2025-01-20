@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2021 (because every developer starts somewhere!)<br>📚 Currently enhancing skills: in Java, Spring Boot, AWS, MongoDB, MySQL and Docker 🐳<br>💻 Goals: Master backend development and create scalable and efficient solutions, both locally and in the cloud, using cutting-edge technologies 🚀<br>💬 Fun fact: I'm constantly deepening my knowledge and learning more about the technologies I work with!</p>
+<p align="left">✨ Creating bugs since: 2021 (because every developer starts somewhere!)<br>📚 Currently enhancing skills: in Java, Spring Boot, AWS, MongoDB, MySQL and Docker 🐳<br>💻 Goals: Master backend development and create scalable and efficient solutions, both locally and in the cloud, using cutting-edge technologies 🚀<br>💬 I'm constantly deepening my knowledge and learning more about the technologies I work with!</p>
 
 ###
 
