@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2021 (because every developer starts somewhere!)<br>📚 Currently enhancing skills: in Nest.js, AWS, MongoDB, MySQL and Docker 🐳<br>💻 Goals: Master backend development and create scalable and efficient solutions, both locally and in the cloud, using cutting-edge technologies 🚀<br>💬 I'm constantly deepening my knowledge and learning more about the technologies I work with!</p>
+<p align="left">✨ Creating bugs since: 2021 (because every developer starts somewhere!)<br>📚 Currently enhancing skills: in Nest.js, AWS, MySQL and Docker 🐳<br>💻 Goals: Master backend development and create scalable and efficient solutions, both locally and in the cloud, using cutting-edge technologies 🚀<br>💬 I'm constantly deepening my knowledge and learning more about the technologies I work with!</p>
 
 ###
 
@@ -21,8 +21,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="react logo"  />
@@ -30,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
